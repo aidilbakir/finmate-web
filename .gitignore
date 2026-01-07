@@ -1,0 +1,29 @@
+# Environment files
+.env
+.env.local
+.env.production
+
+# Build files
+/netbeans-web/build/
+/netbeans-web/dist/
+/netbeans-web/nbproject/private/
+
+# Node modules
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# JAR files (optional - can be committed for convenience)
+# netbeans-web/lib/*.jar
